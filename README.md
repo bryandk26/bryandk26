@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a recent Computer Science graduate from Bina Nusantara University<br>🌱 I’m currently learning more about flutter<br>🤝 How to reach me: LinkedIn - @bryandk26, Instagram - @bryankartolo, Email - @bryandarmawan13@gmail.com<br>⚡ Fun fact: I enjoy listening to lesser-known music, and when only a few people know those songs, it gives me a proud and happy feeling
+🔭 I’m a recent Computer Science graduate from Bina Nusantara University<br>🌱 I’m currently learning more about flutter<br>🤝 How to reach me: LinkedIn - @bryandk26, Instagram - @bryankartolo, Email - bryandarmawan13@gmail.com<br>⚡ Fun fact: I enjoy listening to lesser-known music, and when only a few people know those songs, it gives me a proud and happy feeling
 
 
 ## 🌐 Socials:
