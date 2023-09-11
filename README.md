@@ -11,6 +11,7 @@
    - Grade: 3.64
    - Freshmen Leader 2020
 #### 2. [SMA N 1 Kudus](https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/A69C65B5-63F8-449D-8A9C-A2A00324C4BB) | MIPA | Kudus `2016-2019`
+   - Chairman of Persekutuan Doa Feleven
    - Vice Chairman of Kudus Softball Club
 
 ## Work Experience:
